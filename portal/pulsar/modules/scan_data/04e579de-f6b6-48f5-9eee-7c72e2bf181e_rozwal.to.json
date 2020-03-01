@@ -1,0 +1,8 @@
+{"name":"beta.rozwal.to","domain":"rozwal.to","addresses":[{"ip":"139.162.188.219","cidr":"139.162.160.0/19","asn":63949,"desc":"LINODE-AP Linode, LLC"}],"tag":"cert","source":"Crtsh"}
+{"name":"rozwal.to","domain":"rozwal.to","addresses":[{"ip":"139.162.188.219","cidr":"139.162.160.0/19","asn":63949,"desc":"LINODE-AP Linode, LLC"}],"tag":"cert","source":"Crtsh"}
+{"name":"niewlaztu.beta.rozwal.to","domain":"rozwal.to","addresses":[{"ip":"139.162.188.219","cidr":"139.162.160.0/19","asn":63949,"desc":"LINODE-AP Linode, LLC"}],"tag":"cert","source":"Crtsh"}
+{"name":"niewlaztu.rozwal.to","domain":"rozwal.to","addresses":[{"ip":"139.162.188.219","cidr":"139.162.160.0/19","asn":63949,"desc":"LINODE-AP Linode, LLC"}],"tag":"cert","source":"Crtsh"}
+{"name":"testujemy.rozwal.to","domain":"rozwal.to","addresses":[{"ip":"178.79.138.173","cidr":"178.79.136.0/21","asn":48337,"desc":"LINODE-AS, EU"}],"tag":"cert","source":"Crtsh"}
+{"name":"stary.rozwal.to","domain":"rozwal.to","addresses":[{"ip":"212.111.42.36","cidr":"212.111.40.0/22","asn":48337,"desc":"LINODE-AS, EU"}],"tag":"cert","source":"Crtsh"}
+{"name":"niewlaztu.testujemy.rozwal.to","domain":"rozwal.to","addresses":[{"ip":"178.79.138.173","cidr":"178.79.136.0/21","asn":48337,"desc":"LINODE-AS, EU"}],"tag":"cert","source":"Crtsh"}
+{"name":"zadania.rozwal.to","domain":"rozwal.to","addresses":[{"ip":"198.58.102.215","cidr":"198.58.96.0/19","asn":48337,"desc":"LINODE-AS, EU"}],"tag":"ext","source":"User Input"}

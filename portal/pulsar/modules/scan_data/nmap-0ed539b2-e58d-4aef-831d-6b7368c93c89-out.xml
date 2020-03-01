@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.70 scan initiated Sun Feb  2 11:40:43 2020 as: nmap -e eth0 -Pn -p22,80,443 -n -sS -sV -vv -&#45;script=http-title,banner,ssh-hostkey -&#45;open -&#45;host-timeout 8m -iL /portal/pulsar/modules/scan_data/nmap-0ed539b2-e58d-4aef-831d-6b7368c93c89-ips.list -oX /portal/pulsar/modules/scan_data/nmap-0ed539b2-e58d-4aef-831d-6b7368c93c89-out.xml -->
+<nmaprun scanner="nmap" args="nmap -e eth0 -Pn -p22,80,443 -n -sS -sV -vv -&#45;script=http-title,banner,ssh-hostkey -&#45;open -&#45;host-timeout 8m -iL /portal/pulsar/modules/scan_data/nmap-0ed539b2-e58d-4aef-831d-6b7368c93c89-ips.list -oX /portal/pulsar/modules/scan_data/nmap-0ed539b2-e58d-4aef-831d-6b7368c93c89-out.xml" start="1580643643" startstr="Sun Feb  2 11:40:43 2020" version="7.70" xmloutputversion="1.04">
+<scaninfo type="syn" protocol="tcp" numservices="3" services="22,80,443"/>
+<verbose level="2"/>
+<debugging level="0"/>
+<taskbegin task="NSE" time="1580643643"/>
+<taskend task="NSE" time="1580643643"/>
+<taskbegin task="NSE" time="1580643643"/>
+<taskend task="NSE" time="1580643643"/>
+<taskbegin task="SYN Stealth Scan" time="1580643643"/>
+<taskend task="SYN Stealth Scan" time="1580643645" extrainfo="12 total ports"/>
+<taskbegin task="Service scan" time="1580643645"/>

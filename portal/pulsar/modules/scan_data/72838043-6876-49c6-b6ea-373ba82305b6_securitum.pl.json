@@ -1,0 +1,2 @@
+{"name":"nowysajt.securitum.pl","domain":"securitum.pl","addresses":[{"ip":"172.104.138.135","cidr":"172.104.128.0/19","asn":63949,"desc":"LINODE-AP Linode, LLC"}],"tag":"cert","source":"Crtsh"}
+{"name":"www.securitum.pl","domain":"securitum.pl","addresses":[{"ip":"172.104.136.192","cidr":"172.104.128.0/19","asn":63949,"desc":"LINODE-AP Linode, LLC"}],"tag":"cert","source":"Crtsh"}
