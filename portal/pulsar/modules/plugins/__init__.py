@@ -8,7 +8,7 @@ __all__ = [
     "TcpServiceScanPlugin",
     "UdpServiceScanPlugin",
     # [ Vulnerability scan plugins ]
-    #"CloudEnumPlugin",
+    "CloudEnumPlugin",
     "WeakSSHAlgoPlugin",
     "TLSCertVerifyPlugin",
     "ServiceVulnScanPlugin",
