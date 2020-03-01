@@ -58,7 +58,7 @@ This software was created with availability and openness in mind, so it is 100% 
 
 ## Installation instructions
 
-> If you would like to use External APIs see [TROUBLESHOOTING.md](/TROUBLESHOOTING.md#external-apis-integration)
+> If you would like to use External APIs see [USAGE.md](/USAGE.md#external-apis-integration)
 
 ### Windows
 
