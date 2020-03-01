@@ -2,7 +2,7 @@
 ![0.9.8 Beta](https://img.shields.io/badge/pulsar-v0.9.8b-YELLOW) ![Django](https://img.shields.io/badge/django-3.0.3-GREEN) ![Vue](https://img.shields.io/badge/Vue-2.6.11-BLUE)
 
 
-![Pulsar](/images/pulsar-banner.PNG) ![Pulsar](/images/pulsar-banner.PNG)
+![Pulsar](/images/pulsar-banner.PNG)
 
 ## What is it?
 
